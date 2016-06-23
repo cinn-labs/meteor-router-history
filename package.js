@@ -2,7 +2,7 @@ Package.describe({
   name: 'cinn:router-history',
   version: '0.0.1',
   summary: 'Keep track of FlowRouter navigation history',
-  git: '',
+  git: 'https://github.com/cinn-labs/meteor-router-history',
   documentation: 'README.md'
 });
 
